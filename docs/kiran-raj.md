@@ -5,3 +5,4 @@
 * Food - Briyani
 * Hobby - Listen to film scores
 * Color - Yellow
+* Current City - Hyderabad
